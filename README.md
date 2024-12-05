@@ -10,11 +10,15 @@ Sans réelle base de données présente pour notre premier choix de sujet nous n
 Données présentes sur data.gouv.fr:
 
 -Parcelles biologiques : https://www.data.gouv.fr/fr/datasets/parcelles-en-agriculture-biologique-ab-declarees-a-la-pac/#/resources
+
 -Achat produits phytosanitaires : https://www.data.gouv.fr/fr/datasets/achats-de-pesticides-par-code-postal/
+
 -Pesticides présent dans les eaux souterraines : https://www.data.gouv.fr/fr/datasets/pesticides-dans-les-eaux-souterraines/
+
 -Professionnels engagés dans le BIO : https://www.data.gouv.fr/fr/datasets/professionnels-engages-en-bio/
+
 -Un webscrapping des données sur les réseaux sociaux pour mesurer une éventuelle évolution de la proportion des commentaires sur le BIO et le sentiment qui en découle.
--
+
 
 
 
