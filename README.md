@@ -25,5 +25,9 @@ Données présentes sur data.gouv.fr:
 ### Méthodologie 
 
 
-In fine, avec toutes ses bases de données l'idée est de s'intéresser sur l'Agriculture BIO en France et de voir de potentielle corrélations entre les zones "biologiques" et la consommation effective de pesticide (régression linéaire ?) Mettre en lumière une éventuelle externalité négative de l'Agriculture BIO et de la polution des eaux : mapping géospatial. Avec les sentiments des consommateurs, mettre en lumière une éventuelle prédiction (via ML) de l'augmentation de l'Agriculture BIO en France le tout accompagné de la base de données des professionnels certifiés BIO.
+In fine, avec toutes ses bases de données l'idée est de s'intéresser sur l'Agriculture BIO en France et de voir de potentielle corrélations entre les zones "biologiques" et la consommation effective de pesticide (régression linéaire ?) 
+
+Mettre en lumière une éventuelle externalité négative de l'Agriculture BIO et de la polution des eaux : mapping géospatial. 
+
+Avec les sentiments des consommateurs, mettre en lumière une éventuelle prédiction (via ML) de l'augmentation de l'Agriculture BIO en France le tout accompagné de la base de données des professionnels certifiés BIO.
 
