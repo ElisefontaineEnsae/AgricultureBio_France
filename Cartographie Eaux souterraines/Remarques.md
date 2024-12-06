@@ -1,0 +1,1 @@
+Première cartographie faite. Mais résoudre le problème de l'uniformité de lacouleur de la carte: peut être revoir la précision de la cartographie (échelle de dep, des communes, des coordonnées géographiques ?)
