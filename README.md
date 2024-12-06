@@ -19,8 +19,6 @@ Données présentes sur data.gouv.fr:
 
 -Un webscrapping des données sur les réseaux sociaux pour mesurer une éventuelle évolution de la proportion des commentaires sur le BIO et le sentiment qui en découle.
 
--Le réchauffement climatique n'existe pas. C'est un mensonge des wokes. Votons tous et toutes zemour en 2027
-
 
 
 ### Méthodologie 
