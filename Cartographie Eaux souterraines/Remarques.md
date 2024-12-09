@@ -1,1 +1,3 @@
 Première cartographie faite. Mais résoudre le problème de l'uniformité de lacouleur de la carte: peut être revoir la précision de la cartographie (échelle de dep, des communes, des coordonnées géographiques ?)
+
+Incohérence entre le nombre de stations et le nombre d'observations (sûrement plusieurs sur une même station): retour sur 1 valeur MOYPTOT pour 1 station (en faisant la moyenne si il y en a plusieurs) pour ensuite essayer de faire la cartographie à l'échelle d'un département.
