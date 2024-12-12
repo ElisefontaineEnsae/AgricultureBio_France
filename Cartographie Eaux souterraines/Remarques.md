@@ -5,3 +5,5 @@ Incohérence entre le nombre de stations et le nombre d'observations (sûrement 
 # Idées:
 
 Avec la base de données des professionnels engagés dans le bio on peut voir la différence entre nombre de professionnels VS surface agricole : beaucoup mais sur des toutes petites parcelles (mais des problèmes de contaminations avec les parcelles voisines), ou alors justement peu mais sur des grands espaces pour une question de rentabilité, ...
+
+Pondérer par l'agriculture pardépartement ( une carte seule, puis y intégrer aux cartes des eaux souterraines ...)
