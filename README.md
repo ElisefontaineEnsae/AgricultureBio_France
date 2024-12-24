@@ -5,7 +5,7 @@ Projet de Data Science pour le cours de 2ème année de l'ENSAE intitulé "Pytho
 
 ### 1) Contexte 
 
-Sans réelle base de données présente pour notre premier choix de sujet nous nous portons sur un autre sujet. **L'agriculture biologique en France : nous raconte-t-on des salades ? **
+Sans réelle base de données présente pour notre premier choix de sujet nous nous portons sur un autre sujet. L'agriculture biologique en France : nous raconte-t-on des salades ?
 
 Données présentes sur data.gouv.fr:
 
