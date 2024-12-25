@@ -30,6 +30,8 @@ Mettre en lumière une éventuelle externalité négative de l'Agriculture BIO e
 
 Avec les sentiments des consommateurs, mettre en lumière une éventuelle prédiction (via ML) de l'augmentation de l'Agriculture BIO en France le tout accompagné de la base de données des professionnels certifiés BIO.
 
+
+ECHEC DE L'UTILISATION DU S3
 ### 3) Gestion des fichiers volumineux sur le SSP Cloud
 
 Pour éviter d'alourdir le dépôt Git avec des fichiers volumineux, les données ont été stockées sur un bucket S3 accessible via le SSP Cloud. Voici les étapes réalisées pour cette gestion.
