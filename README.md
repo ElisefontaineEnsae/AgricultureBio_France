@@ -8,7 +8,7 @@ Les eaux souterraines constituent une ressource essentielle pour l’approvision
 
 Malgré cet espoir, la réalité des sols et des eaux souterraines en France est complexe. Si l’agriculture biologique progresse, elle coexiste avec des pratiques agricoles conventionnelles souvent intensifiées. Ce contexte soulève une question cruciale : les bénéfices attendus de l’agriculture biologique sont-ils suffisamment puissants pour contrebalancer les pressions exercées par les autres systèmes de production agricole ?
 
-Ce projet de data science vise à analyser l’impact réel de l’agriculture biologique sur la pollution des eaux souterraines en France. En utilisant des données historiques couvrant la période de 2007 à 2013, marquée par l'émergence significative de l'agriculture biologique, nous chercherons à comprendre si cette transition agricole a contribué à une amélioration mesurable de la qualité des eaux ou si d'autres facteurs, comme l’intensification des pratiques conventionnelles, en ont annulé les effets.
+Avec ce projet de data science, nous avons souhaité analyser l’impact réel de l’agriculture biologique sur la pollution des eaux souterraines en France. Nous cherchons à comprendre si cette transition agricole a contribué à une amélioration mesurable de la qualité des eaux ou si d'autres facteurs, comme l’intensification des pratiques conventionnelles, en ont annulé les effets.
 
 ## Problématique
 L’agriculture biologique peut-elle réellement compenser les impacts négatifs des pratiques agricoles conventionnelles sur les eaux souterraines, ou son effet est-il dilué par une intensification accrue sur les parcelles non biologiques ?
