@@ -14,4 +14,10 @@ pour réduire l’usage des pesticides, ou bien reste-t-elle un phénomène prin
 Utilisation du dépôt:
 - le rendu du projet est dans le notebook intitulé "Notebook_final.ipynb"
 - toutes les celulles de code à l'intérieur de celui ci font références à d'autres notebooks rangés dans les différents dossiers. Leurs noms sont mentionnés à chaque fois dans le notebook final pour y accéder facilement.
-- la branche principale et finale est la branche main, les autres sont là car nous ne les avons pas effacées mais importent peu. 
+- la branche principale et finale est la branche main, les autres sont là car nous ne les avons pas effacées mais importent peu.
+
+  Source des données:
+  - webscraping à l'aide de Googe Trend
+  - clé API de News API
+  - bases de données des parcelles d'agriculture biologique déclarées à la PAC de l'Agence Bio: https://www.data.gouv.fr/fr/datasets/parcelles-en-agriculture-biologique-ab-declarees-a-la-pac/
+  - base de données des achats de pesticides par département du système d'Information sur l'Eau: https://www.data.gouv.fr/fr/datasets/achats-de-pesticides-par-code-postal/  
